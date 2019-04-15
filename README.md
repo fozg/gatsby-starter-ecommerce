@@ -43,4 +43,4 @@ STRIPE_PUBLISHABLE_KEY=
 - Google Analytics - (you enter the tracking-id)
 - Semantic-UI
 - Authentication via Moltin (Login and Register)
-- Stripe checkout
+- Stripe checkout.
